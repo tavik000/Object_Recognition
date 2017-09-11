@@ -5,6 +5,9 @@ Object_Recognition
 This is a Object_Recognition appilication with Matlab. 
 
 
+## Setup
+Image source should be downloaded and unzip to "src" directory. 
+You can download it from http://pan.baidu.com/s/1eSw6wT0
 
 ## Methods
 
